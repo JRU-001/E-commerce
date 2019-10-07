@@ -1,2 +1,2 @@
-# E-commerce
-Android app
+# ECommerce-App
+Este proyecto es de finalidad educativa.

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Sep 19 21:26:57 AST 2019
+2.base=C\:\\Users\\Fred Pena\\IdeaProjects\\ECommerce\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+0.path=splash.json
+count=3
+1.set=DEX
+2.path=classes.dex
+2.baseType=DIRECTORY
+0.base=C\:\\Users\\Fred Pena\\IdeaProjects\\ECommerce\\app\\build\\intermediates\\assets\\debug
+2.set=DEX
+1.baseType=DIRECTORY
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.base=C\:\\Users\\Fred Pena\\IdeaProjects\\ECommerce\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.set=ASSET

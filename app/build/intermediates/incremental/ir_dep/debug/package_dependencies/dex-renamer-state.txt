@@ -1,0 +1,4 @@
+#Sat Sep 21 23:18:43 AST 2019
+base.0=C\:\\Users\\Fred Pena\\IdeaProjects\\ECommerce\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.0=classes.dex
+path.0=classes.dex
